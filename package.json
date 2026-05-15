@@ -9,5 +9,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HSanichar/Quest-3-ITEC-305.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/HSanichar/Quest-3-ITEC-305/issues"
+  },
+  "homepage": "https://github.com/HSanichar/Quest-3-ITEC-305#readme",
+  "dependencies": {
+    "ejs": "^5.0.2",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {}
 }
